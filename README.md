@@ -1,4 +1,4 @@
-#Signature Web Application
+Signature Web Application
 
 This is a simple web application, which helps you do signatures and export them.
 
